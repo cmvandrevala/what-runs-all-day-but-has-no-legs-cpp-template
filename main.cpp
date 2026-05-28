@@ -3,5 +3,5 @@
 #include "src/timer.hpp"
 
 int main() {
-  // Your driver program goes here
+  std::cout << pretty_print() << std::endl;
 }
